@@ -7,7 +7,7 @@ Some networks based on MNIST, FASHION MNIST and CIFAR10 dataset.
     <th>Network Type</th>
     <th>Activation Func</th>
     <th>Layer</th>
-    <th>Filter</th>
+    <th>Filter/nodes<br></th>
     <th>Kernels</th>
     <th>Epoch</th>
     <th>Val Acc</th>
@@ -47,27 +47,27 @@ Some networks based on MNIST, FASHION MNIST and CIFAR10 dataset.
     <td>sigmoid</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.9616</td>
-    <td></td>
   </tr>
   <tr>
     <td>fnn</td>
     <td>tanh</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.9753</td>
-    <td></td>
   </tr>
   <tr>
     <td>fnn</td>
     <td>arctan</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.9738</td>
-    <td></td>
   </tr>
   <tr>
     <td rowspan="6">Fashion MNIST</td>
@@ -102,27 +102,27 @@ Some networks based on MNIST, FASHION MNIST and CIFAR10 dataset.
     <td>sigmoid</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.8774</td>
-    <td></td>
   </tr>
   <tr>
     <td>fnn</td>
     <td>tanh</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.8768</td>
-    <td></td>
   </tr>
   <tr>
     <td>fnn</td>
     <td>arctan</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.8737</td>
-    <td></td>
   </tr>
   <tr>
     <td rowspan="12">Cifar10</td>
@@ -211,27 +211,27 @@ Some networks based on MNIST, FASHION MNIST and CIFAR10 dataset.
     <td>sigmoid</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.4733</td>
-    <td></td>
   </tr>
   <tr>
     <td>fnn</td>
     <td>tanh</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.4834</td>
-    <td></td>
   </tr>
   <tr>
     <td>fnn</td>
     <td>arctan</td>
     <td>4</td>
     <td>60</td>
+    <td></td>
     <td>300</td>
     <td>0.4923</td>
-    <td></td>
   </tr>
 </tbody>
 </table>
